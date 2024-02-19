@@ -1,0 +1,1 @@
+& :/Users/User/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/UseUser/Desktop/programesana_1/19.februaris_2024/txt.py
